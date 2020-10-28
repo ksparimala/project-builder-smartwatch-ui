@@ -1,0 +1,66 @@
+body{
+    height:100%;
+    overflow: hidden;
+}
+#main{
+display:grid;
+grid-template-columns:50% 50% ;
+height: 100%;
+}
+#text{
+    background-color: #066847;
+    height:350%;
+}
+h1{
+    text-align: center;
+    margin-top: 13em ;
+}
+#watch
+{
+    position: relative;
+    background-color:white;  
+    align-items: center;
+    
+}
+#demo{
+    color: white;
+    text-align: center;
+}
+#demo1{
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+    
+#time
+{
+    position: relative;
+    background-color: black;
+    border-radius: 30px;
+    height: 80%;
+    width:40%;
+    left:270px;
+    top:300px;
+    align-items: center;
+   
+}
+#img3
+{
+    margin-top: 100px;
+    margin-left: 90px;
+}
+#img2
+{
+    margin-top: 100px;
+    margin-left: 70px;
+}
+#img1
+{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+
+
+
